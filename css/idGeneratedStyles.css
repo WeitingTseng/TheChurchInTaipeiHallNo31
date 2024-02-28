@@ -1,0 +1,109 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,100,0,0" />
+
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+	background: #fcf9ec;
+	/* overflow-x: hidden; */
+}
+div.chapter{
+	width: 95vw;max-width: 600px;margin: 0 auto;
+}
+p{margin-bottom:0.5em;line-height: 1.6em;font-size:1em;}
+p.END {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:200;
+	line-height:1.8;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.name {
+	-epub-text-align-last:left;
+	color:#9fa0a0;
+	font-size:0.9em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:200;
+	line-height:1.8;
+	margin-bottom:1.5em;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0.5em;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.photo {
+	color:#000000;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:300;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.title {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-size:1.25em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:1em;
+	margin-left:0;
+	margin-right:0;
+	margin-top:1em;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ParaOverride-1 {
+	text-align:left;
+}
+img._idGenObjectAttribute-1 {
+	height:349px;
+	width:349px;
+}
+@media screen and (max-width:700px) {
+	
+}
